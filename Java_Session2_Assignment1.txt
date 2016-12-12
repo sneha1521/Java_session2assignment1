@@ -1,0 +1,18 @@
+1. A program to print name without using semicolon :
+
+public class name {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		if (System.out.printf("Sneha Goyal..!") != null) 
+		{
+		
+		}
+	}
+
+}
+
+
+Result :
+
+Sneha Goyal..!
